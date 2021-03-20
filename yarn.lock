@@ -9905,6 +9905,13 @@
   dependencies:
     "aproba" "^1.1.1"
 
+"rxjs@^6.6.6":
+  "integrity" "sha1-FNhBeqWgfF5jOZW1JeHjwN7AO3A="
+  "resolved" "https://artifactory.palantir.build/artifactory/api/npm/all-npm/rxjs/-/rxjs-6.6.6.tgz"
+  "version" "6.6.6"
+  dependencies:
+    "tslib" "^1.9.0"
+
 "safe-buffer@^5.0.1", "safe-buffer@^5.1.0", "safe-buffer@^5.1.1", "safe-buffer@^5.1.2", "safe-buffer@^5.2.0", "safe-buffer@>=5.1.0", "safe-buffer@~5.2.0":
   "integrity" "sha1-Hq+fqb2x/dTsdfWPnNtOa3gn7sY="
   "resolved" "https://artifactory.palantir.build/artifactory/api/npm/all-npm/safe-buffer/-/safe-buffer-5.2.1.tgz"
