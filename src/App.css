@@ -28,6 +28,11 @@
   height: 12.5%;
 } 
 
+.promote-square {
+  width: 50%; 
+  height: 50%; 
+}
+
 .square-black {
   background-color: #B59963;
 }
