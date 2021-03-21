@@ -25,7 +25,8 @@ const BoardSquare = ({ piece, isBlackSqaure, position }) => {
         <div className='board-square' ref={dropRef}>
             <Square isBlackSqaure={isBlackSqaure}>
                 {
-                    promotion ? <Promote promotion={promotion} />
+                    promotion ? <Promot
+                    e promotion={promotion} />
                         : (piece && <Piece piece={piece} position={position} />)
 
                 }
